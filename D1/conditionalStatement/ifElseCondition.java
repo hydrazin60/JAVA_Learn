@@ -15,7 +15,6 @@ public class ifElseCondition {
         } else {
             System.out.println(a + " is equal to " + b);
         }
-
         sc.close();
     }
 }
