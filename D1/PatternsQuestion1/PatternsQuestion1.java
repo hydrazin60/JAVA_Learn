@@ -1,6 +1,7 @@
 package D1.PatternsQuestion1;
 
 import java.util.*;
+
 // *****
 // *****
 // *****
