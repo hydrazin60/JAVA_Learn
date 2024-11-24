@@ -1,15 +1,10 @@
 package D1.DataInput;
 
 import java.util.*;
-// Conditional Statements ‘if-else’
-// The if block is used to specify the code to be executed
-// if the condition specified  in if is true, the else block is executed otherwise.
-
 public class DataInput {
     public static void main(String[] args) {
         // Input
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Enter your name: ");
         String name = sc.nextLine();
         // nextLine used to input string type data
