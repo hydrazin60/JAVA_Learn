@@ -31,7 +31,6 @@ public class stringss {
         // Reading the user's input as a line of text and storing it in the variable
         // "name".
         String name = sc.nextLine();
-
         // Printing the user's name to the console.
         System.out.println("your name is : " + name);
     }
