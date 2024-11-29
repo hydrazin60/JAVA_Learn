@@ -1,6 +1,4 @@
-
 package D1.Homework;
-
 import java.util.*;
 
 public class CalculaterQ1 {
