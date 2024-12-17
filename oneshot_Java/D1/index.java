@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class index {
     public static void main(String[] args) {
-        // primitive Data Type
+        //  primitive Data Type
         int phone = 1234545556;
         long phone2 = 3243466565576L;
         float py = 3.14F;
@@ -27,8 +27,8 @@ public class index {
         System.out.println(Stringg1.replace("J", "k")); // not update orginal string replace method create a new string
         System.out.println(Stringg1);
         // substring
-        System.out.println(Stringg1.substring(0 , 4)); // not update orginal stringsubstring method create a new string
-        // //////////////////////////// Array /////////////
+        System.out.println(Stringg1.substring(0, 4)); // not update orginal stringsubstring method create a new string
+        // ////////////// Array /////////////
         int[] marks = new int[5];
         marks[0] = 97;
         marks[1] = 90;
@@ -41,10 +41,10 @@ public class index {
         // sort
         Arrays.sort(marks);
         System.out.println(marks[0]);
-        String studentName[] = {"jiban" , "nisan" , "Thapa kaji" , "roshan"};
+        String studentName[] = { "jiban", "nisan", "Thapa kaji", "roshan" };
         System.out.println(studentName[2]);
         // 2-D Array
-        int fullMarks[][] = {{90,23,43,45,66} , {123,24,45,56,77}};
+        int fullMarks[][] = { { 90, 23, 43, 45, 66 }, { 123, 24, 45, 56, 77 } };
         System.out.println(fullMarks[1][0]);
         // /////////////// const /////////////
         final float PY = 3.14F; // const value assign
