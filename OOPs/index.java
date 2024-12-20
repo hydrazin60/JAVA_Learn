@@ -38,10 +38,12 @@ public class index {
         // Calling the method to display student details
         student1.displayDetails();
 
-        // Updating the subject for the student
-        student1.updateSubject("Computer Science");
+        // Update
 
-        // Displaying the updated details
-        student1.displayDetails();
+        // Updating the subject for the student
+        // student1.updateSubject("Computer Science");
+
+        // // Displaying the updated details
+        // student1.displayDetails();
     }
 }
